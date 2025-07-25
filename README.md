@@ -1,13 +1,10 @@
 <h1 align="center">👋 Olá! Eu sou Girlando Junior</h1>
-<h2 align="center">Desenvolvedor de sistemas</h2>
-
-###
 
 
 
 ###
 
-<p align="center">
+<p align="left">
 <strong>Desenvolvedor apaixonado por criar soluções digitais que impactam positivamente a vida das pessoas.</strong><br>
 Especializado em desenvolvimento web moderno com foco em performance, escalabilidade e experiência do usuário.
 </p>
