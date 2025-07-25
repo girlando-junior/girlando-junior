@@ -10,6 +10,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/girlando-junior/girlando-junior/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/girlando-junior/girlando-junior/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/girlando-junior/girlando-junior/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <p align="left">- 🖥️ Técnico em Redes de Computadores pelo SENAI  <br>- 🎓 Técnologo em análise e desenvolvimento de sistemas</p>
 
 ###
