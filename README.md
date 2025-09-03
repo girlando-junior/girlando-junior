@@ -22,7 +22,6 @@ Especializado em desenvolvimento web moderno com foco em performance, escalabili
 <h2 align="left">🎯 Sobre Mim</h2>
 
 - 🖥️ **Técnico em Redes de Computadores** pelo SENAI
-- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas**
 - 💼 **2 anos** de experiência em desenvolvimento web
 - 🌱 Sempre aprendendo e contribuindo para a comunidade dev
 
